@@ -83,7 +83,6 @@ public class Movements {
 			//Reset encoder positions for the next autonomous action
 			rTal.setSelectedSensorPosition(0, 0, 0);
 			lTal.setSelectedSensorPosition(0, 0, 0);
-
 		}
 	}
 	
